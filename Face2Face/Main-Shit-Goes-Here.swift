@@ -73,7 +73,7 @@ class Person {
     
     var numberOfMessages: Int {
         get {
-            
+            //
             return correspondence?.count ?? 0
       
         }
